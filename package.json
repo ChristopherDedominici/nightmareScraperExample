@@ -1,0 +1,24 @@
+{
+  "name": "nightmarescraperexample",
+  "version": "1.0.0",
+  "description": "a nightmare scraper example",
+  "main": "nightmareScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nightmare",
+    "scraper",
+    "javascript",
+    "nodejs",
+    "node",
+    "node.js"
+  ],
+  "author": "Christopher Dedominici",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.2.0",
+    "image-downloader": "^3.2.2",
+    "nightmare": "^2.10.0"
+  }
+}
