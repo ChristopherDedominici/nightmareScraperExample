@@ -15,7 +15,7 @@ This is an example on how to use Nightmare.js to scrape websites.
 
 There are two version:
 
-###NEW VERSION = nightmareScraper.js
+### NEW VERSION = nightmareScraper.js
 The scraper scrolls until the end of the document, gets all companies'links and then dowload all the information.
 
 **HOW IT WORKS:**
@@ -30,7 +30,7 @@ The recursive scroll action is done using only one Nightmare instance while the 
 
 <br>
 
-###OLD VERSION = nightmareScraper.OLD.js
+### OLD VERSION = nightmareScraper.OLD.js
 The scraper scrolls until the end of the document recursively clicking on the button "load more companies" and then it downloads all the companies'logo images.
 
 
